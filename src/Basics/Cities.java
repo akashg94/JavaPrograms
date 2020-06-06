@@ -26,6 +26,7 @@ public class Cities {
 		System.out.println(states[i]);
 		
 		System.out.println("___________________");
+		System.out.println("....................");
 		}
 		//while loop testing for find a specific state
 	int n = 0;
